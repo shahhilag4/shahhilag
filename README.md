@@ -10,8 +10,7 @@ I am skilled in programming languages like HTML,CSS,JavaScript and C++. I am cur
 [![Hilag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahhilag&show_icons=true&theme=dark)](https://github.com/shahhilag/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahhilag)](https://github.com/shahhilag/github-readme-stats)
-<br />
-![Hilag's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahhilag)
+[![Hilag's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahhilag)]
 
 ## Connect with Me 🤝🏻
 [![LinkedIn](https://raw.githubusercontent.com/shahhilag/shahhilag/)](https://www.linkedin.com/in/hilag-shah-802299189/) [![GitHub](https://raw.githubusercontent.com/shahhilag/shahhilag/)](https://github.com/shahhilag)
