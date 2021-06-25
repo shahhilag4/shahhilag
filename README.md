@@ -14,4 +14,4 @@ I am skilled in programming languages like HTML,CSS,JavaScript and C++. I am cur
 ![Hilag's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahhilag)
 
 ## Connect with Me 🤝🏻
-[![LinkedIn](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/li.svg)](https://www.linkedin.com/in/hilag-shah-802299189/) [![GitHub](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/gh.svg)](https://github.com/shahhilag)
+[![LinkedIn](https://raw.githubusercontent.com/shahhilag/shahhilag/)](https://www.linkedin.com/in/hilag-shah-802299189/) [![GitHub](https://raw.githubusercontent.com/shahhilag/shahhilag/)](https://github.com/shahhilag)
