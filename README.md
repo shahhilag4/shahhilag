@@ -16,3 +16,12 @@ I am skilled in programming languages like HTML,CSS,JavaScript and C++. I am cur
 ## Connect with Me 🤝🏻
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/shahhilag)
 [![Linkedin Badge](https://img.shields.io/badge/-Hilag%20Shah-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/hilag-shah-802299189/)](https://www.linkedin.com/in/hilag-shah-802299189/) [![GitHub followers](https://img.shields.io/github/followers/shahhilag?label=Follow&style=social)](https://github.com/shahhilag/?tab=follow)
+<hr />
+**I can work with**
+<br>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c++&logoColor=white"/>
+<img alt="CSS" src="https://img.shields.io/badge/css-%2300599C.svg?&style=for-the-badge&logo=css&logoColor=white"/>
+
+<hr>
