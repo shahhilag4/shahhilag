@@ -7,6 +7,7 @@ I am skilled in programming languages like HTML,CSS,JavaScript and C++. I am cur
 ## My Github Activity
 [![Hilag's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahhilag&theme=xcode)](https://github.com/shahhilag)
 <br /><br />
+## Github Statistics  
 [![Hilag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahhilag&show_icons=true&theme=dark&count_private=true&hide=stars,issues)](https://github.com/shahhilag/github-readme-stats)
 <br /><br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahhilag)](https://github.com/shahhilag/github-readme-stats) 
