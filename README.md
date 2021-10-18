@@ -9,19 +9,12 @@ I am skilled in programming languages like HTML,CSS,JavaScript and C++. I am cur
 <br /><br />
 
 ## Github Statistics 
-<a href="https://github.com/shahhilag/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahhilag&show_icons=true&count_private=true&hide=stars,issues&layout=compact" />
-</a>
+[![Hilag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahhilag&show_icons=true&count_private=true&hide=stars,issues&layout=compact)](https://github.com/shahhilag/github-readme-stats)
 <br /><br />
-<a href="https://github.com/shahhilag/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahhilag&layout=compact" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahhilag&layout=compact)](https://github.com/shahhilag/github-readme-stats)
 <br /><br />
-<a href="https://github.com/shahhilag/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahhilag" />
-</a>
+![Hilag's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahhilag)
 <br />
-
 ## Connect with Me 🤝🏻
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/shahhilag)
 [![Linkedin Badge](https://img.shields.io/badge/-Hilag%20Shah-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/hilag-shah-802299189/)](https://www.linkedin.com/in/hilag-shah-802299189/) [![GitHub followers](https://img.shields.io/github/followers/shahhilag?label=Follow&style=social)](https://github.com/shahhilag/?tab=follow)
