@@ -9,7 +9,6 @@ I am skilled in programming languages like HTML,CSS,JavaScript and C++. I am cur
 <br /><br />
 
 ## <h2 align="center">Github Statistics </h2>
-
 [![Hilag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahhilag&show_icons=true&count_private=true&hide=stars,issues&layout=compact)](https://github.com/shahhilag/github-readme-stats)
 <br /><br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahhilag&layout=compact)](https://github.com/shahhilag/github-readme-stats)
