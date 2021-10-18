@@ -1,4 +1,4 @@
-# Hello there! 👋🏻 I am Hilag Shah!
+# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Hilag Shah!
 
 I am <b>Hilag Shah</b>. I am currently an undergraduate student pursuing my degree in Information Technology from Dr. D.Y Patil Institute Of Technology,Pimpri,Pune. I am a Web Developer and also currently developing keen interest in Problem Solving.
 
@@ -7,10 +7,14 @@ I am skilled in programming languages like HTML,CSS,JavaScript and C++. I am cur
 ## My Github Activity
 [![Hilag's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahhilag&theme=xcode)](https://github.com/shahhilag)
 <br /><br />
+<div style="display:flex;">
+<p align="left" width="100" heigth="100">
 [![Hilag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahhilag&show_icons=true&theme=dark&count_private=true&hide=stars,issues)](https://github.com/shahhilag/github-readme-stats)
+</p>
 <br /><br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahhilag)](https://github.com/shahhilag/github-readme-stats) 
 <br /><br />
+</div>
 ![Hilag's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahhilag)
 <br />
 ## Connect with Me 🤝🏻
