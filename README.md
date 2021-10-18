@@ -11,9 +11,8 @@ I am skilled in programming languages like HTML,CSS,JavaScript and C++. I am cur
 ## Github Statistics 
 <a href="https://github.com/shahhilag/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahhilag&show_icons=true&count_private=true&hide=stars,issues&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahhilag&layout=compact" />
 </a>
-<br /><br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahhilag&layout=compact)](https://github.com/shahhilag/github-readme-stats)
 <br /><br />
 ![Hilag's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahhilag)
 <br />
