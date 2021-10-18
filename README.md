@@ -10,13 +10,16 @@ I am skilled in programming languages like HTML,CSS,JavaScript and C++. I am cur
 
 ## Github Statistics 
 <a href="https://github.com/shahhilag/github-readme-stats">
-  <div style="display:flex;">  
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahhilag&show_icons=true&count_private=true&hide=stars,issues&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahhilag&layout=compact" />
-  </div>
 </a>
 <br /><br />
-![Hilag's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahhilag)
+<a href="https://github.com/shahhilag/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahhilag&layout=compact" />
+</a>
+<br /><br />
+<a href="https://github.com/shahhilag/github-readme-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahhilag" />
+</a>
 <br />
 ## Connect with Me 🤝🏻
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/shahhilag)
