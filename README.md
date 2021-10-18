@@ -1,4 +1,4 @@
-# <h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br /> I am Hilag Shah!<h1>
+# <h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Hilag Shah!<h1>
 
 I am <b>Hilag Shah</b>. I am currently an undergraduate student pursuing my degree in Information Technology from Dr. D.Y Patil Institute Of Technology,Pimpri,Pune. I am a Web Developer and also currently developing keen interest in Problem Solving.
 
