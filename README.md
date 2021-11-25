@@ -20,10 +20,7 @@ Welcome to my Github profile!</b> <br>
   
 <h3 align="center">About Me✍</h3>
 
-
-I am skilled in technologies like HTML,CSS,JavaScript and C++. 
-
-<p align="center">I am Hilag Shah. I am currently an undergraduate student pursuing my degree in Information Technology. I am a <b>Web Developer</b> and also currently developing keen interest in <b>Problem Solving</b>. I love to build tools that could have an everlasting impact on humanity.</p>
+<p align="center">I am Hilag Shah. I am currently an undergraduate student pursuing my degree in Information Technology. I am a <b>Web Developer</b> and also currently developing keen interest in <b>Problem Solving</b>.I am skilled in technologies like HTML,CSS,JavaScript and C++. I love to build tools that could have an everlasting impact on humanity.</p>
 <br>
 <br>
 
