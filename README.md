@@ -55,11 +55,9 @@ I am skilled in technologies like HTML,CSS,JavaScript and C++.
 
 | ![Hilag Shah GitHub Statistics](https://github-readme-stats.vercel.app/api?username=shahhilag&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahhilag) |
 | --- | --- |
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahhilag&theme=light&hide_border=true&line_height=27&width=20) | ![Gagan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shahhilag&layout=compact&langs_count=8&hide_border=true) | 
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahhilag&theme=light&hide_border=true&line_height=27&width=20) | ![Hilag's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shahhilag&layout=compact&langs_count=8&hide_border=true) | 
 
-
-
-<img src="https://activity-graph.herokuapp.com/graph?username=shahhilag&theme=github" alt="GitHub Activity Graph" width="100%" />
+[![Hilag's github activity graph](https://activity-graph.herokuapp.com/graph?username=shahhilag&bg_color=fcfe9&color=e4c98&line=e4c98&point=03d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 <br>
