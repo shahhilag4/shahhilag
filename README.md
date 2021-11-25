@@ -57,9 +57,6 @@ I am skilled in technologies like HTML,CSS,JavaScript and C++.
 | --- | --- |
 | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahhilag&theme=light&hide_border=true&line_height=27&width=20) | ![Hilag's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shahhilag&layout=compact&langs_count=8&hide_border=true) | 
 
-[![Hilag's github activity graph](https://activity-graph.herokuapp.com/graph?username=shahhilag)](https://github.com/shahhilag/github-readme-activity-graph)
-
-
 <br>
 <br>
 
