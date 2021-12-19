@@ -24,7 +24,7 @@ Welcome to my Github profile!</b> <br>
 <br>
 <br>
 
-<h4><b>Personal portfolio <a href="https://hilag-portfolio.herokuapp.com/">here</a>.</b></h4>
+<h4 align="center"><b>Personal portfolio <a href="https://hilag-portfolio.herokuapp.com/">here</a>.</b></h4>
 <br>
 <br> 
 
