@@ -1,6 +1,6 @@
 <div align="center"><img src="./profile.gif" style="height: 200px;"></div>
 
-<h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I am Hilag Shah!</h1>
+<h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> I am Hilag Shah!</h1>
 <br><br>
 <p align="center" style="margin-top:10px">
 <b>
@@ -10,7 +10,7 @@ Welcome to my Github profile!</b> <br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shahhilag/">
-    <img width="30px" src="/assests/linkedin.gif"  />
+    <img width="15px" src="/assests/linkedin.gif"  />
   </a>
   &nbsp;
 </div>
