@@ -1,6 +1,6 @@
 <div align="center"><img src="./profile.gif" style="height: 200px;"></div>
 
-<h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5rem"> I am Hilag Shah!</h1>
+<h1 align="center">Hello!👋 I am Hilag Shah!</h1>
 <br><br>
 <p align="center" style="margin-top:10px">
 <b>
