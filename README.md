@@ -9,8 +9,8 @@ Welcome to my Github profile!</b> <br>
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/shahhilag/">
-    <img src="\assests\linkedin.jpeg"  />
+  <a href="https://www.linkedin.com/in/shahhilag4/">
+    <img src="[\assests\linkedin.jpeg](https://icons8.com/icon/8808/linkedin)"  />
   </a>
   &nbsp;
 </div>
