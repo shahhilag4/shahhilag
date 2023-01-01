@@ -10,7 +10,7 @@ Welcome to my Github profile!</b> <br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shahhilag4/">
-    <img src="https://imgur.com/a/TepG38l" alt="linkedin" width="30px" />
+    <blockquote class="imgur-embed-pub" lang="en" data-id="a/TepG38l"><a href="//imgur.com/TepG38l">LinkedIn Logo</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
   </a>
   &nbsp;
 </div>
