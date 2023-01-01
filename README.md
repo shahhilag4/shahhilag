@@ -1,21 +1,4 @@
 <div align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" /></div>
-
-<h1 align="center">Hello!👋 I am Hilag Shah!</h1>
-<br><br>
-<p align="center" style="margin-top:10px">
-<b>
-Welcome to my Github profile!</b> <br> 
-<i>Want to collaborate, reach me below.</i>
-</p>
-
-<div align="center">
-  
-  </a>
-  &nbsp;
-</div>
-<br>
-<br>
-  
   
 <h3 align="center">About Me✍</h3>
 
@@ -49,18 +32,14 @@ Welcome to my Github profile!</b> <br>
 
 <br><br>
 
-<h3>Github Stats 📈</h3>
-
-
-
-
-
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
+  <img src="[https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png](https://www.canva.com/design/DAFWZ19SGzU/40jtqQ1L2uCiNPht5PW66g/view?utm_content=DAFWZ19SGzU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)" alt="my banner">
+<!-- <a href="#" target="_blank" rel="noreferrer"></a> -->
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+Hi there, I'm Hilag 👋 
+<!--   <a href="#" target="_blank" rel="noreferrer"></a> -->
 </h3>
 
 <h2 align="center">
