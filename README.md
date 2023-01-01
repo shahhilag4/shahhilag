@@ -1,38 +1,4 @@
-
-  
-<h3 align="center">About Me✍</h3>
-
-<p align="center">I am Hilag Shah. I am currently an undergraduate student pursuing my degree in Information Technology. I am a <b>Web Developer</b> and love to engage myself in <b>Problem Solving</b>.I am skilled in technologies like HTML,CSS,JavaScript and C++. I love to build tools that could have an everlasting impact on humanity.</p>
-<br>
-<br>
-
-<!--<h4 align="center"><b>Personal portfolio <a href="https://hilag-portfolio.herokuapp.com/">here</a>.</b></h4>-->
-<br>
-<br> 
-
-
-<h3>Tech stack I work with 👇</h3>
-<!-- ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?&style=for-the-badge&logo=react&logoColor=white&style=plastic) -->
-<!-- ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&style=plastic&style=plastic) 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=plastic) -->
-<!-- ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&style=plastic) -->
-
-<h4>Web development stack</h4> 
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&style=plastic) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=plastic) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&style=plastic)  
-  
-  
-<h4>Languages</h4>     
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=plastic)
-
-<h4>Version Control</h4>  
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&style=plastic)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=plastic)
-
-<br><br>
-
- <div align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" /></div>
+<div align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" /></div>
 <!-- <a href="#" target="_blank" rel="noreferrer"></a> -->
 
 
@@ -42,31 +8,29 @@ Hi there, I'm Hilag 👋
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+I'm a Full-Stack Web Developer 💻, Hackathon Enthusiast 🥷, and a Competitive Programmer! 🏎️
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I love the entire process of developing creative websites. I love the challenge of solving tough problems and being around technology driven people.I am skilled in technologies like HTML,CSS,JavaScript and C++. I love to build tools that could have an everlasting impact on humanity.
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="https://www.linkedin.com/in/shahhilag4/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Hilag Shah| LinkedIn" width="21px"/></a>
+<!-- <a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a> -->
+<!-- <a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a> -->
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 
 - My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
-- My CSS skill
+- My new blog
+- My backend development
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
-- Firebase
+- 📱 React 
+- Angular
 - React Context API
 - Styled Components  
 
@@ -80,7 +44,11 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&color=000000)
+<!-- ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?&style=for-the-badge&logo=react&logoColor=white&style=plastic) -->
+<!-- ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&style=plastic&style=plastic) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=plastic) -->
+<!-- ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&style=plastic) -->
 </br>
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
