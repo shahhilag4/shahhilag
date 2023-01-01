@@ -1,4 +1,4 @@
-<div align="center"><img src="profile.gif" style="height: 200px;"></div>
+<div align="center"><img src="[./profile.gif](https://github.com/shahhilag4/shahhilag/blob/master/profile.gif)" style="height: 200px;"></div>
 
 <h1 align="center">Hello!👋 I am Hilag Shah!</h1>
 <br><br>
