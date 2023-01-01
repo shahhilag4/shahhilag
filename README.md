@@ -1,4 +1,4 @@
-<div align="center"><iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<div align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" /></div>
 
 <h1 align="center">Hello!👋 I am Hilag Shah!</h1>
 <br><br>
