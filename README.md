@@ -10,7 +10,7 @@ Welcome to my Github profile!</b> <br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shahhilag/">
-    <img src=".\assests\linkedin.jpeg"  />
+    <img src="\assests\linkedin.jpeg"  />
   </a>
   &nbsp;
 </div>
@@ -66,6 +66,6 @@ Welcome to my Github profile!</b> <br>
   <p><b>Thank you for your time.</b><br>
     If you wanna reach out to me you can<br><b>MAIL ME</b>&nbsp;
   <a href="mailto:shahhilag16@gmail.com">
-      <img width="20px" src="/assests/gmail.svg" />
+      <img width="20px" src="\assests\gmail.svg" />
   </a></p>
 </div>
