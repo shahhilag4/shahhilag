@@ -1,6 +1,4 @@
 <div align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" /></div>
-<!-- <a href="#" target="_blank" rel="noreferrer"></a> -->
-
 
 <h3 align="center">
 Hi there, I'm Hilag 👋 
@@ -8,7 +6,8 @@ Hi there, I'm Hilag 👋
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Hackathon Enthusiast 🥷, and a Competitive Programmer! 🏎️
+I'm a Full-Stack Web Developer 💻 and a Hackathon Enthusiast! 🥷
+<!--  and a Competitive Programmer! 🏎️ -->
 </h2> 
 
 I love the entire process of developing creative websites. I love the challenge of solving tough problems and being around technology driven people.I am skilled in technologies like HTML,CSS,JavaScript and C++. I love to build tools that could have an everlasting impact on humanity.
@@ -37,13 +36,13 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
+<!-- ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC) -->
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
+<!-- ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D) -->
+<!-- ![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000) -->
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+<!-- ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791) -->
+<!-- ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57) -->
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&color=000000)
 <!-- ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?&style=for-the-badge&logo=react&logoColor=white&style=plastic) -->
 <!-- ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&style=plastic&style=plastic) 
@@ -61,7 +60,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
+<!-- ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7) -->
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
