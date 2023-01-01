@@ -10,7 +10,7 @@ Welcome to my Github profile!</b> <br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shahhilag4/">
-    <img src="[\assests\linkedin.jpeg](https://icons8.com/icon/8808/linkedin)"  />
+    <img src="https://icons8.com/icon/8808/linkedin"  />
   </a>
   &nbsp;
 </div>
