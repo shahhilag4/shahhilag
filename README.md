@@ -1,4 +1,4 @@
-<div align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" /></div>
+
   
 <h3 align="center">About Me✍</h3>
 
@@ -32,10 +32,9 @@
 
 <br><br>
 
-<p align="center">
-  <img src="[https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png](https://www.canva.com/design/DAFWZ19SGzU/40jtqQ1L2uCiNPht5PW66g/view?utm_content=DAFWZ19SGzU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)" alt="my banner">
+ <div align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" /></div>
 <!-- <a href="#" target="_blank" rel="noreferrer"></a> -->
-</p>
+
 
 <h3 align="center">
 Hi there, I'm Hilag 👋 
