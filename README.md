@@ -12,6 +12,8 @@ I'm a Full-Stack Web Developer 💻 and a Hackathon Enthusiast! 🥷
 
 I love the entire process of developing creative websites. I love the challenge of solving tough problems and being around technology driven people.I am skilled in technologies like HTML,CSS,JavaScript and C++. I love to build tools that could have an everlasting impact on humanity.
 
+I believe that the world is yours to change with the power of your code!
+
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/shahhilag4/"><img src="https://i.stack.imgur.com/gVE0j.png"  alt="Hilag Shah| LinkedIn" width="21px"/></a>
