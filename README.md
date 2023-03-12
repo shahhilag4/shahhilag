@@ -14,6 +14,8 @@ I love the entire process of developing creative websites. I love the challenge 
 
 I believe that the world is yours to change with the power of your code!
 
+At last, it is not how many lines of code you have contributed.Its all about how much impact you have left :))
+
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/shahhilag4/"><img src="https://i.stack.imgur.com/gVE0j.png"  alt="Hilag Shah| LinkedIn" width="21px"/></a>
