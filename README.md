@@ -33,7 +33,7 @@ At last, it is not how many lines of code you have contributed.Its all about how
 ## 🌱 I'm currently learning
 
 - 📱 React 
-- Angular
+- JavaScript fundamentals
 - React Context API
 - Styled Components  
 
