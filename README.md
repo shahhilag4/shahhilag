@@ -28,6 +28,7 @@ At last, it is not how many lines of code you have contributed.Its all about how
 
 - My old projects
 - My new blog
+- Data Structures and Algorithm
 - My backend development
 
 ## 🌱 I'm currently learning
