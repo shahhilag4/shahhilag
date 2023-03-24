@@ -9,7 +9,7 @@ Hi there, I'm <a href="http://shahhilag4.netlify.app" target="_blank" rel="noref
 I'm a Full-Stack Web Developer 💻 and a Hackathon Enthusiast! 🥷
 </h2> 
 
-I love the entire process of developing creative websites and the challenge of solving tough problems.I am skilled in technologies like HTML,CSS,JavaScript and C++ and love to build tools that could have an everlasting impact on humanity.
+I love the entire process of developing creative websites and the challenge of solving tough problems.I am skilled in technologies like HTML,CSS,JavaScript and C++ and I am passionate to build tools that could have an everlasting impact on humanity.
 
 In the end, it is not about how many lines of code you have contributed.It is all about how much impact you have left :))
 
