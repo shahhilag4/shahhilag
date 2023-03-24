@@ -1,7 +1,7 @@
 <div align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" /></div>
 
 <h3 align="center">
-Hi there, I'm <a href="http://shahhilag4.netlify.app" target="_blank" rel="noreferrer">Hilag</a> 👋 
+Hi there, I'm <a href="http://shahhilag4.netlify.app" target="_blank" rel="noreferrer">Hilag Shah</a> 👋 
   
 </h3>
 
