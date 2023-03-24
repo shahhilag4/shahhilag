@@ -13,7 +13,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 I believe that the world is yours to change with the power of your code!
 
-At last, it is not how many lines of code you have contributed.Its all about how much impact you have left :))
+In the end, it is not about how many lines of code you have contributed.It is all about how much impact you have left :))
 
 ### 🤝 Connect with me:
 
@@ -37,7 +37,7 @@ At last, it is not how many lines of code you have contributed.Its all about how
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&color=181717)
-<!-- ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?&style=for-the-badge&logo=react&logoColor=white&style=plastic) -->
+![](https://img.shields.io/badge/ReactJS-61DAFB?&style=for-the-badge&logo=react&logoColor=white&style=plastic)
 <!-- ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&style=plastic&style=plastic) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=plastic) -->
 <!-- ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&style=plastic) -->
