@@ -33,7 +33,6 @@ In the end, it is not about how many lines of code you have contributed.It is al
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&color=181717)
