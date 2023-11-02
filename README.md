@@ -18,17 +18,6 @@ In the end, it is not about how many lines of code you have contributed.It is al
 <a href="https://www.linkedin.com/in/shahhilag4/"><img src="https://i.stack.imgur.com/gVE0j.png"  alt="Hilag Shah| LinkedIn" width="21px"/></a>
 <br>
 
-## 🔭 I'm currently working on
-
-- My new project
-- Data Structures and Algorithm
-- My backend development
-
-## 🌱 I'm currently learning
-
-- 📱 ReactJS
-- JavaScript fundamentals  
-
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
