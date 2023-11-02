@@ -57,5 +57,5 @@ In the end, it is not about how many lines of code you have contributed.It is al
 ## 📈 GitHub Stats 
 
 | ![Hilag Shah GitHub Statistics](https://github-readme-stats.vercel.app/api?username=shahhilag4&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahhilag4) |
-| --- | --- |
+| --- |
 | ![Hilag's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shahhilag4&layout=compact&langs_count=8&hide_border=true)
