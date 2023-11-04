@@ -1,6 +1,6 @@
-<p align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"" width="400"/></p>
+<p align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/></p>
 
-### :man_technologist: &nbsp;About Me :
+### :man_technologist: &nbsp; About Me :
 
 - 👋 Hello, I'm Hilag Shah
 
@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp; Languages and Tools :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
