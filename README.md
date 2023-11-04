@@ -25,10 +25,7 @@ In the end, it is not about how many lines of code you have contributed.It is al
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&color=181717)
 ![](https://img.shields.io/badge/Code-ReactJS-61DAFB?&style=for-the-badge&logo=react&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/Code-AngularJS-FF0000?&style=for-the-badge&logo=angular&logoColor=white&style=plastic)
-<!-- ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&style=plastic&style=plastic) 
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=plastic) -->
-<!-- ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&style=plastic) -->
-<!-- ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC) -->
+
 </br>
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
