@@ -2,7 +2,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-👋 Hello, I'm Hilag Shah
+- 👋 Hello, I'm Hilag Shah
 
 - 🚀 Technology Analyst at Fiserv
 - 💼 Specializing in DSA and Full Stack Development
@@ -31,11 +31,13 @@
 ---
 
 ### 📈 &nbsp; My Stats :
+
 | [![Hilag Shah GitHub Statistics](http://github-readme-streak-stats.herokuapp.com?user=shahhilag4&theme=dark&background=000000)]() | [![Hilag's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shahhilag4&layout=compact&theme=vision-friendly-dark)]() |
 | --- | --- |
 
 ---
 ### 🤝 &nbsp; Connect with me :
+
 <p align="center">
 <a href="https://www.linkedin.com/in/shahhilag4"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>  
 </p>
