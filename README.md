@@ -4,12 +4,12 @@
 
 👋 Hello, I'm Hilag Shah
 
-🚀 Technology Analyst at Fiserv
-💼 Specializing in DSA and Full Stack Development
+- 🚀 Technology Analyst at Fiserv
+- 💼 Specializing in DSA and Full Stack Development
 
-🔧 Always exploring innovative solutions for Fintech challenges
-🌟 Passionate about coding, problem-solving, and learning new technologies
-📚 Hackathon Enthusiast
+- 🔧 Always exploring innovative solutions for Fintech challenges
+- 🌟 Passionate about coding, problem-solving, and learning new technologies
+- 📚 Hackathon Enthusiast
 
 ---
 
