@@ -1,46 +1,42 @@
-<div align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+<p align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"" width="100"/></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/shahhilag4"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
 
-<h3 align="center">
-Hi there, I'm Hilag Shah 👋
-  
-</h3>
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-<h2 align="center">
-I'm a Full-Stack Web Developer 💻 and a Hackathon Enthusiast! 🥷
-</h2> 
+### :man_technologist: &nbsp;About Me :
 
-I love the entire process of developing creative websites and the challenge of solving tough problems.I am skilled in technologies like HTML,CSS,JavaScript and C++ and I am passionate to build tools that could have an everlasting impact on humanity.
+👋 Hello, I'm Hilag Shah
 
-In the end, it is not about how many lines of code you have contributed.It is all about how much impact you have left :))
+🚀 Technology Analyst at Fiserv
+💼 Specializing in DSA and Full Stack Development
 
-### 🤝 Connect with me:
+🔧 Always exploring innovative solutions for Fintech challenges
+🌟 Passionate about coding, problem-solving, and learning new technologies
+📚 Hackathon Enthusiast
 
-<a href="https://www.linkedin.com/in/shahhilag4/"><img src="https://i.stack.imgur.com/gVE0j.png"  alt="Hilag Shah| LinkedIn" width="21px"/></a>
-<br>
+---
 
-## 💼 Technical Skills
+### 🛠 &nbsp;Languages and Tools :
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&color=181717)
-![](https://img.shields.io/badge/Code-ReactJS-61DAFB?&style=for-the-badge&logo=react&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/Code-AngularJS-FF0000?&style=for-the-badge&logo=angular&logoColor=white&style=plastic)
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+</p>
 
-</br>
+---
 
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=tailwind&color=ADD8E6)
-
-</br>
-
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
-
-## 📈 GitHub Stats 
-
-| ![Hilag Shah GitHub Statistics](https://github-readme-stats.vercel.app/api?username=shahhilag4&show_icons=true) | ![Hilag's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shahhilag4&layout=compact&langs_count=8&hide_border=true) |
+### 📈 &nbsp; My Stats :
+| [![Hilag Shah GitHub Statistics](http://github-readme-streak-stats.herokuapp.com?user=shahhilag4&theme=dark&background=000000)](https://git.io/streak-stats) | [![Hilag's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shahhilag4&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) |
 | --- | --- |
+
+---
