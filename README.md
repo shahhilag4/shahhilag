@@ -31,7 +31,7 @@
 ---
 
 ### 📈 &nbsp; My Stats :
-| [![Hilag Shah GitHub Statistics](http://github-readme-streak-stats.herokuapp.com?user=shahhilag4&theme=dark&background=000000)](https://git.io/streak-stats) | [![Hilag's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shahhilag4&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Hilag Shah GitHub Statistics](http://github-readme-streak-stats.herokuapp.com?user=shahhilag4&theme=dark&background=000000)]() | [![Hilag's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shahhilag4&layout=compact&theme=vision-friendly-dark)]() |
 | --- | --- |
 
 ---
